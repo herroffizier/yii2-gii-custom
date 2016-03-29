@@ -1,6 +1,6 @@
 <?php
 
-use app\components\gii\model\Generator;
+use herroffizier\gii\model\Generator;
 
 /* @var $this yii\web\View */
 /* @var $form yii\widgets\ActiveForm */
