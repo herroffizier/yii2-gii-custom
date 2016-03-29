@@ -1,0 +1,13 @@
+{
+    "name": "herroffizier/yii2-gii-custom",
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "keywords": ["yii", "yii2", "yii 2", "gii", "generator", "crud"],
+    "description": "Collection of custom generators for Gii.",
+    "require": {
+        "yiisoft/yii2-gii": "*"
+    },
+    "autoload": {
+        "psr-4": {"herroffizier\\gii\\": "src/"}
+    }
+}
